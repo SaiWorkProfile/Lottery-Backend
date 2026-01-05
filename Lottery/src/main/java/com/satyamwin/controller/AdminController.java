@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import java.time.LocalDate;
 
 @RestController
-@RequestMapping("/admin")
+@RequestMapping("/x9p7kA2_2026/admin-panel")
 @CrossOrigin
 public class AdminController {
 
