@@ -41,7 +41,7 @@ public class AdminKeyFilter implements Filter {
         /* ======================================================
            🔐 PROTECT ONLY /admin APIs
         ====================================================== */
-        if (req.getRequestURI().startsWith("/admin")) {
+        if (req.getRequestURI().startsWith("/x9p7kA2_2026/admin-panel")) {
 
             String key = req.getHeader("X-ADMIN-KEY");
 
